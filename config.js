@@ -1,3 +1,4 @@
+//connection database
 module.exports = {
-  "url" : "mongodb://localhost/tutorial2"
+  "url" : "mongodb://localhost:27017/tutorial2"
 }
