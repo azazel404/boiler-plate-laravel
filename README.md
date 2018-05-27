@@ -1,4 +1,4 @@
-# mc-express-mongo-boilerplate
+# Laravel Kw versi Express boilerplate 
 Model-Controller Boilerplate with ExpressJS and MongoDB for building REST API
 
 This is Express-MongoDB Boilerplate with Model-Controller system.
